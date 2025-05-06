@@ -10,3 +10,5 @@
  Click on the green crate to open the SHOP<br/>
  Throw weapons using SPACE<br/>
  Open/Close inventory using TAB<br/>
+ SHIFT to block<br/>
+ ESCAPE for main menu<br/>
