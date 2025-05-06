@@ -3,7 +3,7 @@
  Created in 2020 
 
 # Controls
- Move with WASD
+ Move with WASD <br/>
  PICK UP items and weapons by moving into them
  HOVER over weapons to see stats
  Swing weapons with LEFT and RIGHT CLICK. Some attacks can hit multiple targets
